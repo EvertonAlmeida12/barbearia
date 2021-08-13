@@ -1,2 +1,2 @@
 # barbearia
-Site utilizando HTML5 e CSS3
+## Site utilizando HTML5 e CSS3
